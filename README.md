@@ -1,4 +1,5 @@
 # Python_TelegramBot_Yadrikhinskiy
-Ядрихиснкий Виталий
-Git: Gheason
-emmail: mgff642@gmail.com
+
+1. Ядрихиснкий Виталий
+2. Git: Gheason
+3. emmail: mgff642@gmail.com
